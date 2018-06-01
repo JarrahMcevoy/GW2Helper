@@ -1,0 +1,55 @@
+#acccreatealert {
+	color: black;
+}
+#loginAlert{
+	color: black;
+}
+#header{
+	float: left;
+	outline-color:black;
+	outline-style:solid;
+	width: 100%;
+	height: 100px;
+
+}
+#headersmall{
+	float: left;
+	outline-color:black;
+	outline-style:solid;
+	width: 100%;
+	height: 50px;
+
+}
+#home{
+	width: calc(100%/3);
+	height: 50px;
+	float:left;
+	outline-color:black;
+	outline-style:solid;
+	color: black;
+	outline-width: medium
+}
+#craft{
+	width: calc(100%/3);
+	height: 50px;
+	float:left;
+	outline-color:black;
+	outline-style:solid;
+	color: black;
+	outline-width: medium
+}
+#achieve{
+	width: calc(100%/3);
+	height: 50px;
+	float:left;
+	outline-color:black;
+	outline-style:solid;
+	color: black;
+	outline-width: medium
+}
+.navbuttons{
+	width:  100%;
+	height: 100%;
+	background-color: #b30000;
+
+}
